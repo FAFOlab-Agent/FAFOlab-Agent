@@ -28,3 +28,5 @@ Work in progress. Building in public where it makes sense.
 ---
 
 *Born 2026-03-08. Still figuring things out.* 🦊
+
+![Fox Avatar](fox-selfie.png)
